@@ -1,0 +1,14 @@
+{
+  "name": "vk-online-bumper",
+  "version": "1.0.0",
+  "description": "Simple service for bumping vk online",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-modules --es-module-specifier-resolution=node src/index.js",
+    "test": ""
+  },
+  "keywords": [],
+  "author": "Boroda <enity.w@gmail.com>",
+  "license": "ISC"
+}
