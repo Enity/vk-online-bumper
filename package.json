@@ -12,7 +12,7 @@
   "author": "Boroda <enity.w@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "cron": "^1.7.2"
   },
   "devDependencies": {
